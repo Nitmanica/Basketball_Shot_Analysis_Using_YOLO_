@@ -3,7 +3,7 @@ This repository contains the source code for our computer vision-based basketbal
 
 We built this system to assist players and coaches by providing insights into shot success and helping refine techniques. The tool also offers visual feedback through a web interface, allowing users to upload gameplay footage for analysis.
 
-🔍 Features
+## 🔍 Features
 ## Basketball and Rim Detection
 Leveraging YOLOv5, YOLOv8, and YOLOv11 models, our application detects the basketball and hoop frame-by-frame from the uploaded video. This enables tracking the ball's trajectory and predicting shot outcomes.
 
@@ -16,7 +16,7 @@ The tool provides performance comparisons (accuracy, speed, and confidence score
 ## Interactive Web Interface
 A Streamlit-based frontend allows users to upload videos, visualize detections, and view predictions and comparisons interactively.
 
-🚀 Installation
+## 🚀 Installation
 To run this project locally:
 
 Clone the repository:
@@ -88,4 +88,4 @@ This project was developed by Nitish Manica as part of a broader exploration int
 Open to collaboration—feel free to submit issues or pull requests!
 
 📄 References
-More technical details, visualizations, and supporting literature are available in the report.pdf file attached in this repository.
+More technical details, visualizations, and supporting literature are available in the pdf file attached in this repository.
